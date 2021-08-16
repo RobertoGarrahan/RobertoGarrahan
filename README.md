@@ -6,8 +6,8 @@
 ##
  <div>
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoGarrahan&theme=blue-green"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoGarrahan&theme=blue-green"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=RobertoGarrahan&theme=blue-green"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoGarrahan&theme=blue-green"/>
 </div>
   
   ##
