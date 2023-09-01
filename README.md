@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently at college
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Node.js
 - ⚡ Fun fact: I can solve the rubik's cube in one minute
 ##
  <div>
