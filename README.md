@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello there 👋
 
-- 🔭 I’m currently at college
-- 🌱 I’m currently learning Node.js
+- 🔭 I’m currently at college and working at a startup as a developer
+- 🌱 I’m currently learning Node.js (and french)
 - ⚡ Fun fact: I can solve the rubik's cube in one minute
 ##
  <div>
