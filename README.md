@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🔭 I’m currently at college and working at a startup as a developer
-- 🌱 I’m currently learning Node.js, React and Tailwind (and french)
+- 🌱 I’m currently learning Next.js (and french)
 - ⚡ Fun fact: I can solve the rubik's cube in one minute
 ##
  <div>
