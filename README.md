@@ -44,20 +44,4 @@ Passionate about technology, clean code, and solving real-world problems. Always
 
 ---
 
-## 📌 Featured Projects
-
-- **Roomly** – Shared space and room reservation system
-
-*(More projects pinned below 👇)*
-
----
-
-## 🤝 Connect with Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/robertogarrahan/
-- 📧 Email: robertogarrahan@gmail.com
-- 💻 Discord: https://discord.gg/DJYsDeUDqz
-
----
-
 ⭐️ Feel free to explore my repositories and get in touch!
